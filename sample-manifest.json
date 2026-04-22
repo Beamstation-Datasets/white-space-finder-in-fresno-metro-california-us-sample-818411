@@ -1,0 +1,12 @@
+{
+  "export_job_id": "575165ae-f8f8-4d2e-bea2-1409b43fc694",
+  "id_short": 818411,
+  "published_at": "2026-04-22T08:01:06Z",
+  "repo_name": "white-space-finder-in-fresno-metro-california-us-sample-818411",
+  "sample_asset_name": "beamstation_818411_food_and_drink-us-fresnoca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/818411/beamstation_818411_food_and_drink-us-fresnoca_SAMPLE_DIST.csv",
+  "sample_records": 1,
+  "sample_sha256": "9a20c6ab312d752d569d02192ab3a45cc69ff4f68d46242886761bb433f6ce64",
+  "sample_size_bytes": 18781,
+  "total_records": 1
+}
